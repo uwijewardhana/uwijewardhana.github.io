@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Udani A. Wijewardhana</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Udani A. Wijewardhana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical models for the persistence of threatened birds using citizen science data: A Systematic Review</title>
+      <link>/publication/systematic_review/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/systematic_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mathematical Model for Predicting Debt Repayment: A Technical Note</title>
+      <link>/publication/debt/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/debt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

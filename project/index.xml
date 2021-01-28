@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Udani A. Wijewardhana</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Udani A. Wijewardhana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis of incentive scheme of a reputed shoe company Sri Lanka</title>
+      <link>/project/clsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/clsa/</guid>
+      <description>&lt;p&gt;CLSA is the sole distributor of all factories and other brands of footwear and other related products. Lorry loads of goods are being received and dispatched to various locations employing number of employees. There is an incentive system to motivate employees to expedite loading, sorting, unloading etc. which was not effective.The aim of this research is to build a better incentive scheme to improve the efficiency and productivity of the employees. Monte Carlo Simulation and train a Neural Network was used for this purpose through existing details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical models for predicting debt repayment</title>
+      <link>/project/debt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/debt/</guid>
+      <description>&lt;p&gt;Debt collection is a massive industry, with in USA alone more than $50 billion recovered each year.
+However, the information available is often limited and incomplete, and predicting whether a given
+debtor would repay is inherently a challenging task. This has amplified research on debt recovery
+classification and prediction models of late. This research considered three main mathematical, data
+mining and statistical models in debt recovery classification, in logistic regression, artificial neural
+networks and affinity analysis. It also compares the effectiveness of the above mentioned tools in
+evaluating whether a debt is likely to be repaid. The construction and analysis of the models were
+based on a fairly large unbalanced data sample provided by a debt collection agency. We have shown
+that all three models could classify the debt repayments with a considerable accuracy, if the
+assumptions of the models are satisfied.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modelling the recovery of local shorebirds using citizen science data following a fox eradication program</title>
+      <link>/project/chgp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/chgp/</guid>
+      <description>&lt;p&gt;In the past fox predation was the greatest land-based threat for shorebird colonies on Phillip Island, Victoria, Australia. Regular fox control for 20 years reduced the fox population, but shorebirds and seabirds including the Little Penguin continued to be decimated. Therefore, a fox eradication program was started in 2006, with three phases called knock-down, clean-up and post-eradication. An effective knock-down was declared in 2011, heralding the start of the clean-up phase. The impact of fox eradication on local shorebirds has never been thoroughly assessed in this context. This study aims to track the recovery of six local shorebird species found on Philip Island including the locally threatened Hooded Plover and Sooty Oystercatcher. The methods used break new ground for assessing the recovery of bird species populations during a successful pest eradication program. We have used citizen science data for 2003 to 2017, extracted from the Atlas of Living Australia. The first method used is INLA modelling assuming a Poisson distribution for bird counts, in order to test for upward trends in shorebird numbers during the fox eradication program. The second method involves changepoint analyses to test whether the successive phases of the eradication process relate to changes in bird count levels. Most shorebird species considered exhibited significant positive trends over this period and all changepoint methods consistently identified the start of the clean-up phase. However, there was less consistency in the case of the start of the knock-down phase. The INLA models suggest a significant increase in the number of shorebirds for most species since 2006, with a negative relationship between the number of shorebirds and the estimated number of remaining foxes for all species. Agreement in the changepoints identified by the four changepoint methods suggests that for all these shorebird species, changes in bird numbers were linked to the timing of the eradication program’s clean-up phase. These methods show some promise for monitoring the recovery of native species during conservation programs; however, the use of citizen science data is a serious limitation of this study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Distribution Schedule for Lunar Clothing Manufacturing Company in Sri Lanka</title>
+      <link>/project/opti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/opti/</guid>
+      <description>&lt;p&gt;Lunar Clothing is a business enterprise which manufactures clothes for vendors who operates in six provinces named Western, Southern, Central, North West, North Central and Sabaragamuwa. Each province has a single hub and each hub has six clothing stores located in different places in particular province. Clothes are distributed to the vendors according to their request. Main store is located at Negombo free trade zone in Western province. The main objective of this study is to generate an optimal distribution schedule to minimize the total transportation cost. To achieve this, we considered three conditions such as size of the item requested by the vendors, the weather conditions of the local roads and the distance between the hubs and the vendors.The Lunar Clothing problem is one of the complex situations in shortest path Algorithm. This study is about the usage of traveling salesman algorithm for real world scenario. The entire problem has been decomposed to four major tasks such as dispatching the truck from main store to provincial hubs, assigning vendors for six stores in each provincial hub, transporting clothes from provincial hubs to vendors and dispatching ships to foreign ports. Then each and every task was analyzed and solved by using relevant algorithm. For mathematical modeling part and to generate the solution, Lingo software has been used. Some assumptions have been done in tasks for simplification. Then the optimal distribution schedule for Lunar Clothing has been implemented for processes in both inside and outside the country.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical modelling with citizen science data for the local shorebirds on the Mornington Peninsula</title>
+      <link>/project/lsa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/lsa/</guid>
+      <description>&lt;p&gt;Climate change has been identified as a possible threat to the biodiversity of shorebirds on the Mornington Peninsula with specific species vulnerabilities likely to be important in both protected and unprotected areas. Due to the lack of comprehensive survey data this study uses citizen science bird counts, extracted from the Atlas of Living Australia, to determine for which species climate change is likely to be more of a threat and to determine which species benefit more from protected areas. In all cases analyses are conducted using temporal models fitted using the Integrated Laplace Approximation (INLA) method. The trends for six local shorebird species were compared to the Australian Pied Oystercatcher, with significantly steeper upward trends identified for the Black-fronted Dotterel, Red-capped Dotterel and Red-kneed Dotterel. Also, while protected areas were associated with greater numbers of the locally threatened Hooded Plover and Sooty Oystercatcher than unprotected areas, there was a significant upward trend for Sooty Oystercatchers which was particularly obvious in protected areas. However, warmer years saw a significant reduction in bird counts for the Hooded Plover on the Mornington Peninsula. This work suggests that, with some limitations, statistical models can be used with citizen science data for monitoring the persistence of local shorebirds and for investigating factors that are impacting these data. The results for the locally threatened Hooded Plover and Sooty Oystercatcher in protected areas are particularly encouraging, although the higher temperatures expected in the future may adversely affect the Hooded Plover.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statistical models for the persistence of Hooded Plover on Mornington Peninsula using citizen science data</title>
+      <link>/project/zim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/zim/</guid>
+      <description>&lt;p&gt;Extinction of bird species has become too frequent a theme around the world. In 2015 BirdLife International estimated that 13% of bird species are threatened with extinction. Determining whether a bird species has become extinct or extant has become a difficult exercise due to survey efforts being too costly. However, due of citizen science data, the number of sightings has increased over the years (e.g. the eBird database increased by more than 20 million sightings from 2012 to 2018).
+The Hooded Plover is listed as a vulnerable bird species under the IUCN red list assessment criteria. In this study we compare two different models to identify the effect of climate on extinction risk for the Hooded Plover in the Mornington Peninsula in both temporal and spatio-temporal scales. Such models are needed for developing effective strategies to conserve threatened species while identifying the factors associated with persistence and extinction. In order to clarify the effect of climate on the persistence of the Hooded Plover we have used the citizen science data available from eBird, which has a large amount of validated observational data. The Hooded Plover is a non-migratory local shorebird in Australia. Therefore, we considered monthly data for our study. Initially probability of persistence model is used as a reference for determining the level of persistence for this bird species. To quantify any climate effects, we have considered the mean monthly temperature, and total monthly rainfall in Zero Inflated models and Hurdle models. To control the growth in citizen science data, we also included the resident human population of the Mornington Peninsula in our models. Citizen science count data often includes excess zeros for rare species like the Hooded Plover in specific areas or time periods. Therefore, we compared Zero Inflated models and Hurdle models using Poisson and Negative Binomial abundance distributions while using count data with temporal and spatio-temporal structures. In both the temporal and spatio-temporal models the performance of the Negative Binomial Hurdle model was superior. Similar conclusions can be drawn from both these models. Population has a significantly negative effect on average Hooded Plover counts (i.e. lower counts of Hooded Plover are associated with higher population) which means growth in citizen science effort, linked to population growth is negatively affect for Hooded Plover counts. The predictor variables of climate (temperature and rainfall) are not significantly affected for the persistence of Hooded Plover. This work shows that statistical models can be used to address the challenges associated with the use of citizen science data for monitoring the persistence of rare birds, while identifying factors affecting this persistence such as climate.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

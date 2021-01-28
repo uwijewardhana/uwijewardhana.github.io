@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Madawa Jayawardana on Udani A. Wijewardhana</title>
+    <link>/authors/madawa-jayawardana/</link>
+    <description>Recent content in Madawa Jayawardana on Udani A. Wijewardhana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/madawa-jayawardana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistical models for the persistence of threatened birds using citizen science data: A Systematic Review</title>
+      <link>/publication/systematic_review/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/systematic_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling the effectiveness of a fox eradication program for local shorebirds using citizen science data</title>
+      <link>/talk/2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical models for the persistence of Hooded Plover on Mornington Peninsula using citizen science data</title>
+      <link>/talk/2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical models for the persistence of threatened birds using citizen science data - PhD Research Overview</title>
+      <link>/talk/visec2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/visec2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

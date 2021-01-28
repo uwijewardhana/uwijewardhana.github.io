@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Udani A. Wijewardhana</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Udani A. Wijewardhana</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research focus is the development of Persistence models for bird species considering spatial and temporal scales using citizen science data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Denny Meyer</title>
+      <link>/authors/denny-meyer/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/denny-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madawa Jayawardana</title>
+      <link>/authors/madawa-jayawardana/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/madawa-jayawardana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinthaka Bandara</title>
+      <link>/authors/chinthaka-bandara/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/chinthaka-bandara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesath Nanayakkara</title>
+      <link>/authors/thesath-nanayakkara/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/thesath-nanayakkara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udani Wijewardhana</title>
+      <link>/authors/udani-wijewardhana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/udani-wijewardhana/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,37 @@
     <description>Recent content in Authors on Udani A. Wijewardhana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Udani Wijewardhana</title>
+      <link>/authors/udani-wijewardhana/</link>
+      <pubDate>Mon, 12 Jul 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/authors/udani-wijewardhana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denny Meyer</title>
+      <link>/authors/denny-meyer/</link>
+      <pubDate>Sat, 15 Aug 2020 12:50:00 +0000</pubDate>
+      
+      <guid>/authors/denny-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Madawa Jayawardana</title>
+      <link>/authors/madawa-jayawardana/</link>
+      <pubDate>Sat, 15 Aug 2020 12:50:00 +0000</pubDate>
+      
+      <guid>/authors/madawa-jayawardana/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,24 +46,6 @@
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;Udani Wijewardhana holds a first-class special BSc (Hons) degree in Computational mathematics and statistics from University of Colombo, Sri Lanka. Her background is in data science with experience in private practice. Her PhD research focus is the development of Persistence models for bird species considering spatial and temporal scales using citizen science data.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Denny Meyer</title>
-      <link>/authors/denny-meyer/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/denny-meyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Madawa Jayawardana</title>
-      <link>/authors/madawa-jayawardana/</link>
-      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/madawa-jayawardana/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -54,15 +63,6 @@
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/authors/thesath-nanayakkara/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Udani Wijewardhana</title>
-      <link>/authors/udani-wijewardhana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/udani-wijewardhana/</guid>
       <description></description>
     </item>
     

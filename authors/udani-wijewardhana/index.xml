@@ -6,34 +6,44 @@
     <description>Recent content in Udani Wijewardhana on Udani A. Wijewardhana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 13:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/udani-wijewardhana/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>3MT (3 Minutes Thesis) 2021</title>
+      <link>/talk/3mt/</link>
+      <pubDate>Mon, 12 Jul 2021 13:00:00 +0000</pubDate>
+      
+      <guid>/talk/3mt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Modelling the effectiveness of a fox eradication program for local shorebirds using citizen science data</title>
       <link>/talk/2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2020 12:50:00 +0000</pubDate>
       
       <guid>/talk/2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistical models for the persistence of Hooded Plover on Mornington Peninsula using citizen science data</title>
-      <link>/talk/2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Statistical models for the persistence of threatened birds using citizen science data - PhD Research Overview</title>
+      <link>/talk/visec2020/</link>
+      <pubDate>Mon, 15 Jun 2020 16:40:00 +0000</pubDate>
       
-      <guid>/talk/2019/</guid>
+      <guid>/talk/visec2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Statistical models for the persistence of threatened birds using citizen science data - PhD Research Overview</title>
-      <link>/talk/visec2020/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Statistical models for the persistence of Hooded Plover on Mornington Peninsula using citizen science data</title>
+      <link>/talk/2019/</link>
+      <pubDate>Wed, 02 Oct 2019 11:30:00 +0000</pubDate>
       
-      <guid>/talk/visec2020/</guid>
+      <guid>/talk/2019/</guid>
       <description></description>
     </item>
     
